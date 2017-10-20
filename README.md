@@ -5,4 +5,6 @@ puede encontrar una replica de la biografia de Grace Hopper.
 
 >La pagina se realizó usando los conceptos basicos de HTML semantico e introduccion a CSS basico.
 
+** Grace Hooper **  
+  
 ![Grace Hopper](images/grace_hopper.jpg)
